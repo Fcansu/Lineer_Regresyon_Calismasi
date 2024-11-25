@@ -1,0 +1,1 @@
+# Lineer_Regresyon_-al-mas-
