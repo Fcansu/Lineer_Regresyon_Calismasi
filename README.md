@@ -1,1 +1,1 @@
-# Lineer_Regresyon_Calismasi
+# Lineer Regresyon Calismasi
