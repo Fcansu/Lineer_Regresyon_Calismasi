@@ -1,1 +1,1 @@
-# Lineer_Regresyon_-al-mas-
+# Lineer_Regresyon_Calismasi
